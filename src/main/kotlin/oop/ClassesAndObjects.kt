@@ -45,6 +45,6 @@ class Car(model:String, reg_no:String, price:Double){
         println("Yeah, I can accelerate")
     }
     fun brake(){
-        println("I am a $model and Ican brake")
+        println("I am a $model and I can brake")
     }
 }

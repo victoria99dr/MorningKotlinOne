@@ -1,5 +1,5 @@
 fun main(args: Array<String>) {
-    var names = arrayListOf("Karen", "Tapiwa", "Ephraim", "Abdul", "Michelle")
+    var names = arrayListOf("Karen", "Tapiwo", "Ephraim", "Abdul", "Michelle")
     println(names[3])
     names.add("King")
 
