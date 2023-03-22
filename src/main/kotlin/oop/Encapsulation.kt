@@ -9,7 +9,7 @@ fun main(args: Array<String>) {
     println(p1.getSalary())
     println(p1.name)
 }
-// making a class makes one not to be able to make objects out of it
+// making abstract class makes one not to be able to make objects out of it
 class Person(var name:String, var age:String){
     private var salary:Double = 0.0
     private var residence:String = ""

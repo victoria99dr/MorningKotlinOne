@@ -12,6 +12,7 @@ fun main(args: Array<String>) {
         "A"
     }
     println(grade)
+
     var bettingNumber = 2
     var bettingResult = when(bettingNumber){
         1 ->{
